@@ -1,7 +1,5 @@
 # home-buildings
 
-<h5>Not for free use</h5>
-
 ## About 
 ``` 
 Some images about the project. 
